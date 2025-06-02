@@ -7,7 +7,6 @@ import { Badge } from "@/components/ui/badge"
 import { Input } from "@/components/ui/input"
 import {
   ShoppingCart,
-  Search,
   Star,
   Crown,
   Heart,
